@@ -25,8 +25,8 @@ __Kelas : T1.21.A.1__
 
     <h2>Menggunakan Variable</h2>
     <?php
-    $nim = "312110263";
-    $nama = 'Nabilah Ananda Putri';
+    $nim = "312110222";
+    $nama = 'D.Wita Aeni';
     echo "NIM : " . $nim . "<br>";
     echo "Nama : $nama";
     ?>
